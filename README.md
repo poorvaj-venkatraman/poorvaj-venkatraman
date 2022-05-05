@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @poorvaj-venkatraman
 - Job Title: Manager - Systems Engineering
 - Company - Sevya Multimedia
+- Client : NXP Semiconductors
 - 👀 I’m interested in Embedded and AI Systems Engineering
 - 🌱 I’m currently learning Python and Firmware Coding
 - 💞️ I’m looking to collaborate on EASE
